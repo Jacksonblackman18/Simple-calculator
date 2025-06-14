@@ -15,4 +15,3 @@ while True:
     elif operation == "%":
         answer = numberOne / numberTwo
     print(numberOne, operation, numberTwo, " = ", answer )
-# testing git push
